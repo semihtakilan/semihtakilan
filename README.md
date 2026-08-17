@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=iOS+Developer+Candidate+%7C+Swift+%26+SwiftUI;Computer+Engineering+Student;Building+clean%2C+scalable+iOS+apps" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/semihtakilan"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:semihtakilan16@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=semihtakilan&style=flat-square&color=blue" alt="profile views" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -31,23 +37,11 @@ I'm also drawn to the fundamentals underneath the code: algorithmic complexity, 
 
 ### 📊 GitHub Stats
 
-<p align="center"> 
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=semihtakilan&show_icons=true&theme=transparent&hide_border=true" /> 
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=semihtakilan&layout=compact&theme=transparent&hide_border=true" /> 
-</p> 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=semihtakilan&theme=transparent&hide_border=true" /> 
-</p>
-
----
-
-### 📫 Get In Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/semihtakilan"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:semihtakilan16@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=semihtakilan&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=semihtakilan&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=semihtakilan&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://streak-stats.demolab.com/?user=semihtakilan&theme=transparent&hide_border=true" />
 </p>
