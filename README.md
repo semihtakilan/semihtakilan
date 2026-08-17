@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm Semih 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=iOS+Developer+%7C+Swift+%26+SwiftUI;Computer+Engineering+Student;Building+clean%2C+scalable+iOS+apps" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/semihtakilan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:semihtakilan16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=iOS+Developer+Candidate+%7C+Swift+%26+SwiftUI;Computer+Engineering+Student;Building+clean%2C+scalable+iOS+apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,21 +32,12 @@ I'm also drawn to the fundamentals underneath the code: algorithmic complexity, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=semihtakilan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=semihtakilan&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=semihtakilan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihtakilan&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=semihtakilan&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihtakilan&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=semihtakilan&theme=tokyonight&hide_border=true&background=00000000" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=semihtakilan&theme=default&hide_border=true&background=00000000" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=semihtakilan&theme=transparent&hide_border=true" />
 </p>
 
 ---
