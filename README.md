@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Semih 👋</h1>
+<h1 align="center">Hi, I'm Semih 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=iOS+Developer+%7C+Swift+%26+SwiftUI;Computer+Engineering+Student;Building+clean%2C+scalable+iOS+apps" alt="Typing SVG" />
@@ -6,21 +6,20 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/semihtakilan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:semihtakilan16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 About Me
 
-- 🎓 Ankara Üniversitesi, Bilgisayar Mühendisliği — 3. sınıf
-- 📱 Swift & SwiftUI odaklı iOS Developer
-- 🧠 İlgi alanlarım: algoritma karmaşıklığı, işletim sistemleri (semaforlar, zamanlama), RISC-V mimarisi, bellek yönetimi
-- 🚀 Şu anda: Clean Architecture ve MVVM ile portföy kalitesinde iOS uygulamaları geliştiriyorum
+I'm a fourth-year Computer Engineering student at Ankara University, building clean, scalable iOS apps with Swift & SwiftUI.
+
+I'm also drawn to the fundamentals underneath the code: algorithmic complexity, operating system concepts (semaphores, scheduling), data structures, and memory management. My current focus is producing portfolio-quality projects using Clean Architecture and MVVM.
 
 ---
 
-### 🛠️ Teknolojiler
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
@@ -35,24 +34,33 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=semihtakilan&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihtakilan&layout=compact&theme=default&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=semihtakilan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=semihtakilan&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=semihtakilan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihtakilan&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semihtakilan&theme=default&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=semihtakilan&theme=tokyonight&hide_border=true&background=00000000" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=semihtakilan&theme=default&hide_border=true&background=00000000" />
+  </picture>
 </p>
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Get In Touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/semihtakilan"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:semihtakilan16@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
